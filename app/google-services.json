@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "923548567090",
+    "firebase_url": "https://teamcryptics2.firebaseio.com",
+    "project_id": "teamcryptics2",
+    "storage_bucket": "teamcryptics2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923548567090:android:2921e266e9c376bc",
+        "android_client_info": {
+          "package_name": "com.samarthgupta.teamcryptics2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923548567090-73cmrhtl3do0jn9qjrr0tlh55o559t01.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.samarthgupta.teamcryptics2",
+            "certificate_hash": "32BD86EF74D04B8BEA32B2D7895063F4E6367558"
+          }
+        },
+        {
+          "client_id": "923548567090-930edufm4d6orc4n03se004rjv5n4v66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwksqNi6HFPsexSc4Eb2BZrO-MIxVkYkY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923548567090-930edufm4d6orc4n03se004rjv5n4v66.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
